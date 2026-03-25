@@ -83,7 +83,7 @@ body{
 
 /* SOCIALS */
 .social{
-    margin-top: 30px;
+    margin-top: 20px;
     border-top: 2px solid #3a3a3a;
     padding-top: 20px;
     text-align: center;
@@ -96,6 +96,26 @@ body{
 .social img:hover{
     filter: brightness(0);
 }
+
+/* CV */
+.cv{
+    margin-top: 20px;
+    border-top: 2px solid #3a3a3a;
+    padding-top: 10px;
+    text-align: center;
+}
+.cv p{
+    background-color: #1e1e1e;
+    padding: 5px 15px;
+    color: #FFBF00;
+    border: 1px solid #3a3a3a;
+    font-size: 0.8rem;
+    border-radius: 8px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+
 
 /* MAIN CONTENT */
 /* NAVIGATION */
